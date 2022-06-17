@@ -1,4 +1,4 @@
-import './App.css';
+
 import './index.css';
 import { useState } from "react";
 import { AutoLayoutVariableExample } from './bootstrap-boot.js';
